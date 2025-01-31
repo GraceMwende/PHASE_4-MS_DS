@@ -1,0 +1,8 @@
+https://www.kaggle.com/competitions/spaceship-titanic/data
+https://www.kaggle.com/code/karusamuel/space-titanic
+
+https://github.com/karusamuel/THRK_scraper.git
+
+https://colab.research.google.com/drive/1Eq_rkgEIBU5Sphl_QoYq7WwbF_mOYBPa
+
+https://pypi.org/project/beautifulsoup4/
